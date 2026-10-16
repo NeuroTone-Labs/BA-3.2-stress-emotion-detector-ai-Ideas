@@ -1,0 +1,7 @@
+idea 1. 
+Smart Study Buddy
+An app that takes your class notes or textbook PDFs and automatically generates quizzes, flashcards, and simple explanations. It tracks which topics you struggle with and adapts future questions to focus on your weak spots.
+
+idea 2. 
+Crop Disease Detector
+A mobile app where farmers snap a photo of a plant leaf, and an image-classification model identifies the disease and suggests treatment options. It could work offline, making it useful in rural areas with poor connectivity.
