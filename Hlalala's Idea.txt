@@ -1,0 +1,12 @@
+Idea 1
+
+Stress-emotion-detector-ai
+AI stress coach. Using your webcam, keyboard, and voice recognition, it detects emotional states and stress in real-time, offering personalized solutions to help you feel calmer and more focused.
+
+
+Idea 2
+
+Interview-confidence-trainer
+A mock interview tool that watches your face, voice and pacing then scores calmness, clarity and confidence with targeted drills to improve weak spots. 
+
+
