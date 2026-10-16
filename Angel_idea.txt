@@ -1,0 +1,5 @@
+Angel_idea.txt
+
+
+Empathetic-Study-Buddy
+Detects frustration or confusion while you study through face, typing and voice and adapts  re-explaining concepts, suggesting breaks or switching to easier problems to keep momentum.
