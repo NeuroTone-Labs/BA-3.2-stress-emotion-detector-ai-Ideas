@@ -1,0 +1,4 @@
+
+Crime Hotspot Prediction AI
+
+An AI-powered system that analyzes past reported crime data (location, time, and type) to identify areas where incidents happen repeatedly and predict where and when crime is most likely to occur next. It displays the results as an easy-to-read risk map so people can plan safer routes and avoid high-risk areas at certain times.
